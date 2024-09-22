@@ -22,12 +22,19 @@ body {
     justify-content: center;
     display: flex;
     align-items: center;
+    height: 100px;
 }
 
 .header-icon {
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     margin-right: 10px;
+}
+
+.header-logo {
+    width: 220px;
+    height: 40px;
+
 }
 
 h1, h2 {
